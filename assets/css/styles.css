@@ -1,0 +1,32 @@
+.contact {
+  gap: 2rem;
+}
+
+.tm_contact {
+  gap: 1rem;
+}
+
+@media (min-width: 768px) {
+  .name {
+    font-size: 50px;
+  }
+}
+
+.btn_cnt {
+  width: 3rem;
+  height: 3rem;
+}
+
+@media (min-width: 768px) {
+  .btn_cnt {
+    width: 4rem;
+    height: 4rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .contact {
+    gap: 4rem;
+  }
+}
+
